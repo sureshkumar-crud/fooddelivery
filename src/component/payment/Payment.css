@@ -1,0 +1,25 @@
+
+.place-order-right{
+    width: 100%;
+    max-width: max(40% , 500px);
+    margin-top: 50px;
+}
+
+.place-order .cart-total button{
+    margin-top: 30px;
+}
+
+.payment-infor{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.payment-infor h3{
+    font-size: 22px;
+    color: orangered;
+}
+
+.payment-infor p{
+    color: lightgrey;
+}
